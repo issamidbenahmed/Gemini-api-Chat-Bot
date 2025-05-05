@@ -10,7 +10,7 @@
 
 ## Description
 
-This is a chat bot built with Node.js and Express, integrated with OpenAI's API to provide natural language processing capabilities. The bot can engage in conversations with users, answer questions, and provide responses based on the context of the conversation.
+This is a chat bot built with Node.js and Express, integrated with Gemini's API to provide natural language processing capabilities. The bot can engage in conversations with users, answer questions, and provide responses based on the context of the conversation.
 
 ## NOTE
 
