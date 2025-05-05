@@ -32,7 +32,7 @@ This project has undergone a transformation and is now powered by React. Feel fr
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/tyleroneil72/chat-bot.git
+git clone https://github.com/issamidbenahmed/Gemini-api-Chat-Bot.git
 cd chat-bot
 ```
 
@@ -79,7 +79,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 This project was inspired by the capabilities of OpenAI's API.
 
-## Contact
-For any inquiries or questions, you can reach me at tyleroneildev@gmail.com
-or on my linkedin at https://ca.linkedin.com/in/tyler-oneil-dev
+
 
